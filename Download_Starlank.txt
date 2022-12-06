@@ -1,0 +1,3 @@
+Install guide: https://tidbyt.dev/docs/build/installi
+
+How to run: https://tidbyt.dev/docs/build/build-for-tidbyt
