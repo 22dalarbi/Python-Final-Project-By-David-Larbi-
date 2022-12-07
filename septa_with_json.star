@@ -110,4 +110,4 @@ def main(config):
 
 
 
-# pixlet serve --watch examples/septatrials.star
+# -pixlet serve --watch examples/septatrials.star
