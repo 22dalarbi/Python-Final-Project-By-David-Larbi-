@@ -16,3 +16,4 @@ This is what an example of what it would look like at 9:32 PM showing the next t
 
 ![image](https://user-images.githubusercontent.com/78058918/206078999-48602acc-7353-464f-9086-f728eada2a80.png)
 
+As you can see it doesn't look so good, this is mainy becuase I spent a lot of the time learing how API's work, and how to code in Starlank. There are not a lot of tutorials online, so I had to use other apps to learn. I also had some help fomrt the devolpers of the company in there discord, they were very helpful. I plan on doing a cool thing this summer that requires me to understand API's so this is very helpful to me.
