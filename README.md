@@ -13,4 +13,6 @@ This is the file with the working API, it is set to the Langhorne Station, which
 https://www3.septa.org/#/
 
 This is what an example of what it would look like at 9:32 PM showing the next train at 10:12PM, and its "On Time"
-![image](https://user-images.githubusercontent.com/78058918/206078746-55fd3afc-e26f-4475-a511-8ed6338160aa.png)
+
+![image](https://user-images.githubusercontent.com/78058918/206078999-48602acc-7353-464f-9086-f728eada2a80.png)
+
